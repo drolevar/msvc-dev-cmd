@@ -1,0 +1,3 @@
+[[IgnoredVulns]]
+id = "GHSA-f886-m6hf-6m8v"
+reason = "Transitive dev dependency of eslint, only used for linting. Not included in production builds or runtime code."
