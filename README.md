@@ -1,3 +1,5 @@
+[![StepSecurity Maintained Action](https://raw.githubusercontent.com/step-security/maintained-actions-assets/main/assets/maintained-action-banner.png)](https://docs.stepsecurity.io/actions/stepsecurity-maintained-actions)
+
 <a href="https://github.com/step-security/msvc-dev-cmd"><img alt="GitHub Actions status" src="https://github.com/step-security/msvc-dev-cmd/workflows/msvc-dev-cmd/badge.svg"></a>
 
 # msvc-dev-cmd
