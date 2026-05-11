@@ -62,7 +62,9 @@ function main() {
 
 (async () => {
     try {
-        await validateSubscription();
+        // drolevar fork: validateSubscription() removed so the action
+        // works on private repos without a StepSecurity subscription.
+        // Revert when the upstream repo becomes public.
         main()
     }
     catch (e) {
